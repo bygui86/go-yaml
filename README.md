@@ -1,2 +1,2 @@
-# go-yaml
-Go YAML sample project
+
+# Go YAML sample project
