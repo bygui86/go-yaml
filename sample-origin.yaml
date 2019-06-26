@@ -1,0 +1,8 @@
+title: My sample YAML file
+description: This is the description of my sample YAML file
+metadata:
+  version: 1
+  group: samples
+  author:
+    name: Matteo
+    surname: Baiguini
