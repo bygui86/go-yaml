@@ -30,7 +30,14 @@ Thumbs.db
 
 ###################### IDE configurations #######
 
-########### GoLand
+########### JetBrains
+.idea/
+.intellij/
+*.eml
+*.iws
+*.iml
+*.ipr
+out/
 
 ########### Visual Studio Code
 .vscode
