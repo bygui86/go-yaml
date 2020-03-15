@@ -51,7 +51,8 @@ go-yaml
 ########### Test binaries
 *.test
 
-########### Go coverage tool output (LiteIDE)
+########### Go coverage tool output
 *.out
 
 ########### Project specific
+go-yaml
